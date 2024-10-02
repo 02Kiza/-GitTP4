@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../design.css"/>
+    <title>Sélection du service</title>
+</head>
+<body>
+<h1>Liste des employés par service</h1>
+<form class="formulaire" action="emplService_post.php" method="post">
+    <ul>
+        <!-- Liste déroulante des services -->
+        <li><label for="champService">Service :</label>
+            <select name="CodeServ" id="champService">
+                <option value="s04">Administration</option>
+                <option value="s03">Commercial</option>
+                <option value="s02">Emballage</option>
+                <option value="s01">Fabrication</option>
+            </select>
+        </li>
+        <li><input type="submit" value="Afficher les employés"></li>
+    </ul>
+</form>
+</body>
+</html>
+</body>
+</html>

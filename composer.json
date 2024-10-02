@@ -1,0 +1,18 @@
+{
+    "name": "yasse/assemien-yohann-tp4",
+    "autoload": {
+        "psr-4": {
+            "Yasse\\AssemienYohannTp4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Assemien"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "7.3",
+        "twig/twig": "3.3",
+        "monolog/monolog": "2.3"
+    }
+}

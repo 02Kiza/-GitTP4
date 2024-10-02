@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="TP4" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="TP4">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/assemien/AssemienYohann-TP4/" local="$PROJECT_DIR$" web="/assemien/AssemienYohann-TP4/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TP4Local">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="http://localhost" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

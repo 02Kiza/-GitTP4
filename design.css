@@ -1,0 +1,16 @@
+.formulaire ul {
+    list-style-type: none;
+    list-style-position: outside;
+    margin: 0px;
+    padding: 0px;
+}
+.formulaire li {
+    padding: 8px;
+    position: relative;
+}
+.formulaire label {
+    width: 80px;
+    display: inline-block;
+    text-align: right;
+    padding: 3px;
+}
